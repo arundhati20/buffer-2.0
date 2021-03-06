@@ -1,2 +1,5 @@
-import java.util.*
-public static void main
+import java.util.scanner;
+public static void main()
+{
+System.out.println("hello world");
+}
